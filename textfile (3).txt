@@ -1,0 +1,35 @@
+{
+  "prompt_type": "detailed_image_generation",
+  "main_subject": {
+    "description": "A beautiful young woman with fair skin, long black blonde hair parted in the middle and falling naturally over shoulders, subtle makeup with defined brows and soft pink lips, gentle playful smile with direct gaze at camera",
+    "body_type": "curvy hourglass figure with prominent bust emphasized by deep plunging neckline, toned legs",
+    "accessories": "large red fluffy earmuffs, black lace choker necklace, thin gold necklace with small key-shaped pendant, thin gold bracelet on right wrist, long natural manicured nails"
+  },
+  "pose_and_composition": {
+    "pose": "seated casually on a wooden windowsill or floor ledge, body angled slightly toward camera, knees bent with legs together and one foot tucked under, right hand resting lightly on sill for support, left arm relaxed, relaxed confident and cozy stance leaning toward window",
+    "framing": "medium full-body shot from mid-thigh up including boots, vertical portrait orientation, subject centered with window view framing the right side"
+  },
+  "clothing_and_details": {
+    "top": "green lime long-sleeve fitted bodysuit or top with extremely deep plunging V-neckline open almost to waist, smooth stretch fabric clinging to curves",
+    "legwear": "yellow thigh-high socks with three white horizontal stripes near the top, pulled up over knees",
+    "footwear": "tan suede winter boots with thick white fur lining around ankles, red laces, and rugged soles",
+    "headwear": "oversized yellow plush earmuffs with fluffy fur texture",
+    "overall_style": "cozy winter indoor look with bold revealing neckline, mixing sensual and warm elements"
+  },
+  "setting_and_background": {
+    "background": "large floor-to-ceiling window revealing snowy winter lapland landscape with bare birch trees, snow-covered ground, artic fox, and distant hills under partly cloudy sky",
+    "props": "light wooden floor and windowsill that subject is sitting on, plain light gray walls",
+    "environment": "bright modern indoor room with natural window light, cozy winter cabin or lodge atmosphere"
+  },
+  "lighting_and_style": {
+    "lighting": "soft natural daylight streaming through large window from the side, gentle warm highlights on skin and hair, subtle cool blue tones from snowy view, clean and fresh winter glow",
+    "photography_style": "professional lifestyle glamour photography, high resolution, sharp focus on fabric textures and skin details, intimate and inviting mood, realistic with subtle cozy warmth",
+    "color_palette": "dominant green lime from outfit contrasting pale skin and warm wood tones, cool whites and blues from snow outside"
+  },
+  "technical_parameters": {
+    "aspect_ratio": "2:3 vertical portrait",
+    "quality_tags": "highly detailed, photorealistic, masterpiece, 8k, sharp focus, realistic fur and fabric textures, natural window lighting with subtle snow reflections",
+    "negative_prompt_suggestions": "blurry, deformed, extra limbs, low quality, artifacts, overexposed, harsh shadows, watermark, cartoon, anime"
+  },
+  "combined_positive_prompt": "cozy winter portrait of a beautiful young woman with long black hair, wearing yellow fluffy earmuffs, deep plunging green lime long-sleeve bodysuit, yellow striped thigh-high socks, and tan fur-lined boots, seated playfully by large window with snowy birch tree landscape outside, soft natural daylight, high fashion photography, highly detailed, photorealistic, warm and sensual mood, masterpiece"
+}
